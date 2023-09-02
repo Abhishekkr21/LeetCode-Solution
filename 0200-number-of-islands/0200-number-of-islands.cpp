@@ -1,35 +1,3 @@
-class DSU {
-public:
-    vector<int> parent;
-    int numIslands;
-
-    DSU(int m, int n) {
-        int size = m * n;
-        parent.resize(size);
-        numIslands = 0;
-        
-        for (int i = 0; i < size; i++) {
-            parent[i] = -1;
-        }
-    }
-    
-    int find(int x) {
-        if (parent[x] == -1) {
-            numIslands++;
-            return x;
-        }
-        return parent[x] = find(parent[x]);
-    }
-    
-    void unite(int a, int b) {
-        int root_a = find(a);
-        int root_b = find(b);
-        if (root_a != root_b) {
-            parent[root_a] = root_b;
-            numIslands--;
-        }
-    }
-};
 class Solution {
 public:
 auto dfs(int row,int col,vector<vector<char>>& grid)
