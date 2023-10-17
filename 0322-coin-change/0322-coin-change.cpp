@@ -1,22 +1,26 @@
 class Solution {
-public:
-    int coinChange(vector<int>& co, int am) {
-        int n =co.size();
+    int dp[10010];
+    int f(vector<int>&co, int am)
+    {
         if(am==0)
         return 0;
-        vector<int> dp(am+1,am+1);
-        dp[0]=0;
-        for(int i=1;i<=am;i++)
+        if(dp[am]!=-1)
+        return dp[am];
+        int ans = INT_MAX;
+        for(int coin: co)
         {
-            for(int j=0;j<n;j++)
-            {
-                if(i>=co[j])
-                {
-                    dp[i]=min(dp[i],dp[i-co[j]]+1);
-                }
-            }
+            if(am-coin>=0)
+            ans = min(ans+0LL, f(co,am-coin)+1LL);
+
         }
-        return dp[am] <= am ? dp[am] : -1;
+        return dp[am]= ans;
+    }
+public:
+    int coinChange(vector<int>& co, int am) {
+        memset(dp,-1,sizeof(dp));
+        int ans = f(co,am);
+        return ans==INT_MAX ?-1 :ans;
+       
        
         
     }
