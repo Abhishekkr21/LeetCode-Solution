@@ -10,3 +10,15 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0205-isomorphic-strings](https://github.com/Abhishekkr21/LeetCode-Solutions1/tree/master/0205-isomorphic-strings) |
+# Array
+|  |
+| ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Abhishekkr21/LeetCode-Solutions1/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+# Dynamic Programming
+|  |
+| ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Abhishekkr21/LeetCode-Solutions1/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+# Greedy
+|  |
+| ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Abhishekkr21/LeetCode-Solutions1/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
