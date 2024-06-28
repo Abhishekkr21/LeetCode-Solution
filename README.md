@@ -22,3 +22,18 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Abhishekkr21/LeetCode-Solutions1/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Tree
+|  |
+| ------- |
+| [0783-search-in-a-binary-search-tree](https://github.com/Abhishekkr21/LeetCode-Solutions1/tree/master/0783-search-in-a-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0783-search-in-a-binary-search-tree](https://github.com/Abhishekkr21/LeetCode-Solutions1/tree/master/0783-search-in-a-binary-search-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0783-search-in-a-binary-search-tree](https://github.com/Abhishekkr21/LeetCode-Solutions1/tree/master/0783-search-in-a-binary-search-tree) |
+<!---LeetCode Topics End-->
