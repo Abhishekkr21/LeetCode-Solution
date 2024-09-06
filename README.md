@@ -51,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Abhishekkr21/LeetCode-Solutions1/tree/master/0055-jump-game) |
 | [0392-is-subsequence](https://github.com/Abhishekkr21/LeetCode-Solutions1/tree/master/0392-is-subsequence) |
 ## Hash Table
 |  |
@@ -68,4 +69,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Abhishekkr21/LeetCode-Solutions1/tree/master/0530-minimum-absolute-difference-in-bst) |
+## Array
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/Abhishekkr21/LeetCode-Solutions1/tree/master/0055-jump-game) |
+## Greedy
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/Abhishekkr21/LeetCode-Solutions1/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
