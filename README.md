@@ -42,15 +42,18 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Abhishekkr21/LeetCode-Solutions1/tree/master/0005-longest-palindromic-substring) |
 | [0392-is-subsequence](https://github.com/Abhishekkr21/LeetCode-Solutions1/tree/master/0392-is-subsequence) |
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Abhishekkr21/LeetCode-Solutions1/tree/master/0005-longest-palindromic-substring) |
 | [0383-ransom-note](https://github.com/Abhishekkr21/LeetCode-Solutions1/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/Abhishekkr21/LeetCode-Solutions1/tree/master/0392-is-subsequence) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Abhishekkr21/LeetCode-Solutions1/tree/master/0005-longest-palindromic-substring) |
 | [0055-jump-game](https://github.com/Abhishekkr21/LeetCode-Solutions1/tree/master/0055-jump-game) |
 | [0392-is-subsequence](https://github.com/Abhishekkr21/LeetCode-Solutions1/tree/master/0392-is-subsequence) |
 ## Hash Table
