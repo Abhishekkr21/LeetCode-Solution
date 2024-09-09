@@ -69,10 +69,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Abhishekkr21/LeetCode-Solutions1/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0547-number-of-provinces](https://github.com/Abhishekkr21/LeetCode-Solutions1/tree/master/0547-number-of-provinces) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Abhishekkr21/LeetCode-Solutions1/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0547-number-of-provinces](https://github.com/Abhishekkr21/LeetCode-Solutions1/tree/master/0547-number-of-provinces) |
 ## Array
 |  |
 | ------- |
@@ -82,4 +84,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/Abhishekkr21/LeetCode-Solutions1/tree/master/0055-jump-game) |
+## Union Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/Abhishekkr21/LeetCode-Solutions1/tree/master/0547-number-of-provinces) |
+## Graph
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/Abhishekkr21/LeetCode-Solutions1/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
