@@ -116,6 +116,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Abhishekkr21/LeetCode-Solutions1/tree/master/0067-add-binary) |
+| [2323-minimum-bit-flips-to-convert-number](https://github.com/Abhishekkr21/LeetCode-Solutions1/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Simulation
 |  |
 | ------- |
