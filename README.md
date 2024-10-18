@@ -86,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/Abhishekkr21/LeetCode-Solutions1/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/Abhishekkr21/LeetCode-Solutions1/tree/master/0056-merge-intervals) |
 | [0213-house-robber-ii](https://github.com/Abhishekkr21/LeetCode-Solutions1/tree/master/0213-house-robber-ii) |
 | [0493-reverse-pairs](https://github.com/Abhishekkr21/LeetCode-Solutions1/tree/master/0493-reverse-pairs) |
 | [1646-kth-missing-positive-number](https://github.com/Abhishekkr21/LeetCode-Solutions1/tree/master/1646-kth-missing-positive-number) |
@@ -111,6 +112,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/Abhishekkr21/LeetCode-Solutions1/tree/master/0056-merge-intervals) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Abhishekkr21/LeetCode-Solutions1/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Prefix Sum
 |  |
