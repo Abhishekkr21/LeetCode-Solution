@@ -47,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Abhishekkr21/LeetCode-Solutions1/tree/master/0005-longest-palindromic-substring) |
 | [0392-is-subsequence](https://github.com/Abhishekkr21/LeetCode-Solutions1/tree/master/0392-is-subsequence) |
+| [1894-merge-strings-alternately](https://github.com/Abhishekkr21/LeetCode-Solutions1/tree/master/1894-merge-strings-alternately) |
 ## String
 |  |
 | ------- |
@@ -54,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0067-add-binary](https://github.com/Abhishekkr21/LeetCode-Solutions1/tree/master/0067-add-binary) |
 | [0383-ransom-note](https://github.com/Abhishekkr21/LeetCode-Solutions1/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/Abhishekkr21/LeetCode-Solutions1/tree/master/0392-is-subsequence) |
+| [1894-merge-strings-alternately](https://github.com/Abhishekkr21/LeetCode-Solutions1/tree/master/1894-merge-strings-alternately) |
 | [2032-largest-odd-number-in-string](https://github.com/Abhishekkr21/LeetCode-Solutions1/tree/master/2032-largest-odd-number-in-string) |
 ## Dynamic Programming
 |  |
