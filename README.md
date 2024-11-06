@@ -57,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0392-is-subsequence](https://github.com/Abhishekkr21/LeetCode-Solutions1/tree/master/0392-is-subsequence) |
 | [1894-merge-strings-alternately](https://github.com/Abhishekkr21/LeetCode-Solutions1/tree/master/1894-merge-strings-alternately) |
 | [2032-largest-odd-number-in-string](https://github.com/Abhishekkr21/LeetCode-Solutions1/tree/master/2032-largest-odd-number-in-string) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/Abhishekkr21/LeetCode-Solutions1/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [3379-score-of-a-string](https://github.com/Abhishekkr21/LeetCode-Solutions1/tree/master/3379-score-of-a-string) |
 ## Dynamic Programming
 |  |
@@ -98,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Abhishekkr21/LeetCode-Solutions1/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2048-build-array-from-permutation](https://github.com/Abhishekkr21/LeetCode-Solutions1/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Abhishekkr21/LeetCode-Solutions1/tree/master/2058-concatenation-of-array) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/Abhishekkr21/LeetCode-Solutions1/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2447-merge-similar-items](https://github.com/Abhishekkr21/LeetCode-Solutions1/tree/master/2447-merge-similar-items) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Abhishekkr21/LeetCode-Solutions1/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Greedy
@@ -149,6 +151,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0067-add-binary](https://github.com/Abhishekkr21/LeetCode-Solutions1/tree/master/0067-add-binary) |
 | [2048-build-array-from-permutation](https://github.com/Abhishekkr21/LeetCode-Solutions1/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Abhishekkr21/LeetCode-Solutions1/tree/master/2058-concatenation-of-array) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/Abhishekkr21/LeetCode-Solutions1/tree/master/2137-final-value-of-variable-after-performing-operations) |
 ## Divide and Conquer
 |  |
 | ------- |
