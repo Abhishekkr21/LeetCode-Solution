@@ -55,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0067-add-binary](https://github.com/Abhishekkr21/LeetCode-Solutions1/tree/master/0067-add-binary) |
 | [0383-ransom-note](https://github.com/Abhishekkr21/LeetCode-Solutions1/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/Abhishekkr21/LeetCode-Solutions1/tree/master/0392-is-subsequence) |
+| [1205-defanging-an-ip-address](https://github.com/Abhishekkr21/LeetCode-Solutions1/tree/master/1205-defanging-an-ip-address) |
 | [1894-merge-strings-alternately](https://github.com/Abhishekkr21/LeetCode-Solutions1/tree/master/1894-merge-strings-alternately) |
 | [2032-largest-odd-number-in-string](https://github.com/Abhishekkr21/LeetCode-Solutions1/tree/master/2032-largest-odd-number-in-string) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Abhishekkr21/LeetCode-Solutions1/tree/master/2137-final-value-of-variable-after-performing-operations) |
