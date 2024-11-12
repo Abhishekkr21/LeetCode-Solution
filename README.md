@@ -47,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Abhishekkr21/LeetCode-Solutions1/tree/master/0005-longest-palindromic-substring) |
 | [0392-is-subsequence](https://github.com/Abhishekkr21/LeetCode-Solutions1/tree/master/0392-is-subsequence) |
+| [0455-assign-cookies](https://github.com/Abhishekkr21/LeetCode-Solutions1/tree/master/0455-assign-cookies) |
 | [1894-merge-strings-alternately](https://github.com/Abhishekkr21/LeetCode-Solutions1/tree/master/1894-merge-strings-alternately) |
 ## String
 |  |
@@ -97,6 +98,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0135-candy](https://github.com/Abhishekkr21/LeetCode-Solutions1/tree/master/0135-candy) |
 | [0213-house-robber-ii](https://github.com/Abhishekkr21/LeetCode-Solutions1/tree/master/0213-house-robber-ii) |
 | [0221-maximal-square](https://github.com/Abhishekkr21/LeetCode-Solutions1/tree/master/0221-maximal-square) |
+| [0455-assign-cookies](https://github.com/Abhishekkr21/LeetCode-Solutions1/tree/master/0455-assign-cookies) |
 | [0493-reverse-pairs](https://github.com/Abhishekkr21/LeetCode-Solutions1/tree/master/0493-reverse-pairs) |
 | [1635-number-of-good-pairs](https://github.com/Abhishekkr21/LeetCode-Solutions1/tree/master/1635-number-of-good-pairs) |
 | [1646-kth-missing-positive-number](https://github.com/Abhishekkr21/LeetCode-Solutions1/tree/master/1646-kth-missing-positive-number) |
@@ -111,6 +113,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0055-jump-game](https://github.com/Abhishekkr21/LeetCode-Solutions1/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/Abhishekkr21/LeetCode-Solutions1/tree/master/0135-candy) |
+| [0455-assign-cookies](https://github.com/Abhishekkr21/LeetCode-Solutions1/tree/master/0455-assign-cookies) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Abhishekkr21/LeetCode-Solutions1/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2032-largest-odd-number-in-string](https://github.com/Abhishekkr21/LeetCode-Solutions1/tree/master/2032-largest-odd-number-in-string) |
 ## Union Find
@@ -129,6 +132,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Abhishekkr21/LeetCode-Solutions1/tree/master/0056-merge-intervals) |
+| [0455-assign-cookies](https://github.com/Abhishekkr21/LeetCode-Solutions1/tree/master/0455-assign-cookies) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Abhishekkr21/LeetCode-Solutions1/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2447-merge-similar-items](https://github.com/Abhishekkr21/LeetCode-Solutions1/tree/master/2447-merge-similar-items) |
 ## Prefix Sum
