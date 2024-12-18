@@ -204,4 +204,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Abhishekkr21/LeetCode-Solutions1/tree/master/0014-longest-common-prefix) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Abhishekkr21/LeetCode-Solutions1/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
