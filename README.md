@@ -222,6 +222,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1390-average-selling-price](https://github.com/Abhishekkr21/LeetCode-Solutions1/tree/master/1390-average-selling-price) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/Abhishekkr21/LeetCode-Solutions1/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1664-find-users-with-valid-e-mails](https://github.com/Abhishekkr21/LeetCode-Solutions1/tree/master/1664-find-users-with-valid-e-mails) |
+| [1670-patients-with-a-condition](https://github.com/Abhishekkr21/LeetCode-Solutions1/tree/master/1670-patients-with-a-condition) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Abhishekkr21/LeetCode-Solutions1/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1773-percentage-of-users-attended-a-contest](https://github.com/Abhishekkr21/LeetCode-Solutions1/tree/master/1773-percentage-of-users-attended-a-contest) |
 | [1811-fix-names-in-a-table](https://github.com/Abhishekkr21/LeetCode-Solutions1/tree/master/1811-fix-names-in-a-table) |
