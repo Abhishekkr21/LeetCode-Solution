@@ -228,4 +228,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1827-invalid-tweets](https://github.com/Abhishekkr21/LeetCode-Solutions1/tree/master/1827-invalid-tweets) |
 | [1877-find-followers-count](https://github.com/Abhishekkr21/LeetCode-Solutions1/tree/master/1877-find-followers-count) |
 | [1908-recyclable-and-low-fat-products](https://github.com/Abhishekkr21/LeetCode-Solutions1/tree/master/1908-recyclable-and-low-fat-products) |
+| [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Abhishekkr21/LeetCode-Solutions1/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
 <!---LeetCode Topics End-->
