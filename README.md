@@ -110,6 +110,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Abhishekkr21/LeetCode-Solutions1/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1635-number-of-good-pairs](https://github.com/Abhishekkr21/LeetCode-Solutions1/tree/master/1635-number-of-good-pairs) |
 | [1646-kth-missing-positive-number](https://github.com/Abhishekkr21/LeetCode-Solutions1/tree/master/1646-kth-missing-positive-number) |
+| [1833-find-the-highest-altitude](https://github.com/Abhishekkr21/LeetCode-Solutions1/tree/master/1833-find-the-highest-altitude) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Abhishekkr21/LeetCode-Solutions1/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2048-build-array-from-permutation](https://github.com/Abhishekkr21/LeetCode-Solutions1/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Abhishekkr21/LeetCode-Solutions1/tree/master/2058-concatenation-of-array) |
@@ -148,6 +149,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Prefix Sum
 |  |
 | ------- |
+| [1833-find-the-highest-altitude](https://github.com/Abhishekkr21/LeetCode-Solutions1/tree/master/1833-find-the-highest-altitude) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Abhishekkr21/LeetCode-Solutions1/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Math
 |  |
