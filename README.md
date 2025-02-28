@@ -115,6 +115,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Abhishekkr21/LeetCode-Solutions1/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2048-build-array-from-permutation](https://github.com/Abhishekkr21/LeetCode-Solutions1/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Abhishekkr21/LeetCode-Solutions1/tree/master/2058-concatenation-of-array) |
+| [2102-find-the-middle-index-in-array](https://github.com/Abhishekkr21/LeetCode-Solutions1/tree/master/2102-find-the-middle-index-in-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Abhishekkr21/LeetCode-Solutions1/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2232-adding-spaces-to-a-string](https://github.com/Abhishekkr21/LeetCode-Solutions1/tree/master/2232-adding-spaces-to-a-string) |
 | [2447-merge-similar-items](https://github.com/Abhishekkr21/LeetCode-Solutions1/tree/master/2447-merge-similar-items) |
@@ -153,6 +154,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0724-find-pivot-index](https://github.com/Abhishekkr21/LeetCode-Solutions1/tree/master/0724-find-pivot-index) |
 | [1833-find-the-highest-altitude](https://github.com/Abhishekkr21/LeetCode-Solutions1/tree/master/1833-find-the-highest-altitude) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Abhishekkr21/LeetCode-Solutions1/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2102-find-the-middle-index-in-array](https://github.com/Abhishekkr21/LeetCode-Solutions1/tree/master/2102-find-the-middle-index-in-array) |
 ## Math
 |  |
 | ------- |
