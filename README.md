@@ -106,6 +106,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0221-maximal-square](https://github.com/Abhishekkr21/LeetCode-Solutions1/tree/master/0221-maximal-square) |
 | [0455-assign-cookies](https://github.com/Abhishekkr21/LeetCode-Solutions1/tree/master/0455-assign-cookies) |
 | [0493-reverse-pairs](https://github.com/Abhishekkr21/LeetCode-Solutions1/tree/master/0493-reverse-pairs) |
+| [1528-kids-with-the-greatest-number-of-candies](https://github.com/Abhishekkr21/LeetCode-Solutions1/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1635-number-of-good-pairs](https://github.com/Abhishekkr21/LeetCode-Solutions1/tree/master/1635-number-of-good-pairs) |
 | [1646-kth-missing-positive-number](https://github.com/Abhishekkr21/LeetCode-Solutions1/tree/master/1646-kth-missing-positive-number) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Abhishekkr21/LeetCode-Solutions1/tree/master/1966-frequency-of-the-most-frequent-element) |
