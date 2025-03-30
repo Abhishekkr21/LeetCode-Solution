@@ -29,12 +29,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Abhishekkr21/LeetCode-Solutions1/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Abhishekkr21/LeetCode-Solutions1/tree/master/0783-search-in-a-binary-search-tree) |
+| [0784-insert-into-a-binary-search-tree](https://github.com/Abhishekkr21/LeetCode-Solutions1/tree/master/0784-insert-into-a-binary-search-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/Abhishekkr21/LeetCode-Solutions1/tree/master/0493-reverse-pairs) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Abhishekkr21/LeetCode-Solutions1/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Abhishekkr21/LeetCode-Solutions1/tree/master/0783-search-in-a-binary-search-tree) |
+| [0784-insert-into-a-binary-search-tree](https://github.com/Abhishekkr21/LeetCode-Solutions1/tree/master/0784-insert-into-a-binary-search-tree) |
 | [1646-kth-missing-positive-number](https://github.com/Abhishekkr21/LeetCode-Solutions1/tree/master/1646-kth-missing-positive-number) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Abhishekkr21/LeetCode-Solutions1/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Binary Tree
@@ -42,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Abhishekkr21/LeetCode-Solutions1/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Abhishekkr21/LeetCode-Solutions1/tree/master/0783-search-in-a-binary-search-tree) |
+| [0784-insert-into-a-binary-search-tree](https://github.com/Abhishekkr21/LeetCode-Solutions1/tree/master/0784-insert-into-a-binary-search-tree) |
 ## Two Pointers
 |  |
 | ------- |
