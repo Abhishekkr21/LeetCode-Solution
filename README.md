@@ -81,6 +81,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0139-word-break](https://github.com/Abhishekkr21/LeetCode-Solutions1/tree/master/0139-word-break) |
 | [0213-house-robber-ii](https://github.com/Abhishekkr21/LeetCode-Solutions1/tree/master/0213-house-robber-ii) |
 | [0221-maximal-square](https://github.com/Abhishekkr21/LeetCode-Solutions1/tree/master/0221-maximal-square) |
+| [0264-ugly-number-ii](https://github.com/Abhishekkr21/LeetCode-Solutions1/tree/master/0264-ugly-number-ii) |
 | [0392-is-subsequence](https://github.com/Abhishekkr21/LeetCode-Solutions1/tree/master/0392-is-subsequence) |
 | [1236-n-th-tribonacci-number](https://github.com/Abhishekkr21/LeetCode-Solutions1/tree/master/1236-n-th-tribonacci-number) |
 ## Hash Table
@@ -88,6 +89,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0041-first-missing-positive](https://github.com/Abhishekkr21/LeetCode-Solutions1/tree/master/0041-first-missing-positive) |
 | [0139-word-break](https://github.com/Abhishekkr21/LeetCode-Solutions1/tree/master/0139-word-break) |
+| [0264-ugly-number-ii](https://github.com/Abhishekkr21/LeetCode-Solutions1/tree/master/0264-ugly-number-ii) |
 | [0383-ransom-note](https://github.com/Abhishekkr21/LeetCode-Solutions1/tree/master/0383-ransom-note) |
 | [1635-number-of-good-pairs](https://github.com/Abhishekkr21/LeetCode-Solutions1/tree/master/1635-number-of-good-pairs) |
 | [2447-merge-similar-items](https://github.com/Abhishekkr21/LeetCode-Solutions1/tree/master/2447-merge-similar-items) |
@@ -172,6 +174,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Abhishekkr21/LeetCode-Solutions1/tree/master/0067-add-binary) |
+| [0264-ugly-number-ii](https://github.com/Abhishekkr21/LeetCode-Solutions1/tree/master/0264-ugly-number-ii) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Abhishekkr21/LeetCode-Solutions1/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1236-n-th-tribonacci-number](https://github.com/Abhishekkr21/LeetCode-Solutions1/tree/master/1236-n-th-tribonacci-number) |
 | [1635-number-of-good-pairs](https://github.com/Abhishekkr21/LeetCode-Solutions1/tree/master/1635-number-of-good-pairs) |
@@ -264,4 +267,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0139-word-break](https://github.com/Abhishekkr21/LeetCode-Solutions1/tree/master/0139-word-break) |
 | [1236-n-th-tribonacci-number](https://github.com/Abhishekkr21/LeetCode-Solutions1/tree/master/1236-n-th-tribonacci-number) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0264-ugly-number-ii](https://github.com/Abhishekkr21/LeetCode-Solutions1/tree/master/0264-ugly-number-ii) |
 <!---LeetCode Topics End-->
