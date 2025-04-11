@@ -63,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0005-longest-palindromic-substring](https://github.com/Abhishekkr21/LeetCode-Solutions1/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/Abhishekkr21/LeetCode-Solutions1/tree/master/0014-longest-common-prefix) |
 | [0067-add-binary](https://github.com/Abhishekkr21/LeetCode-Solutions1/tree/master/0067-add-binary) |
+| [0139-word-break](https://github.com/Abhishekkr21/LeetCode-Solutions1/tree/master/0139-word-break) |
 | [0383-ransom-note](https://github.com/Abhishekkr21/LeetCode-Solutions1/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/Abhishekkr21/LeetCode-Solutions1/tree/master/0392-is-subsequence) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Abhishekkr21/LeetCode-Solutions1/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -77,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Abhishekkr21/LeetCode-Solutions1/tree/master/0005-longest-palindromic-substring) |
 | [0055-jump-game](https://github.com/Abhishekkr21/LeetCode-Solutions1/tree/master/0055-jump-game) |
+| [0139-word-break](https://github.com/Abhishekkr21/LeetCode-Solutions1/tree/master/0139-word-break) |
 | [0213-house-robber-ii](https://github.com/Abhishekkr21/LeetCode-Solutions1/tree/master/0213-house-robber-ii) |
 | [0221-maximal-square](https://github.com/Abhishekkr21/LeetCode-Solutions1/tree/master/0221-maximal-square) |
 | [0392-is-subsequence](https://github.com/Abhishekkr21/LeetCode-Solutions1/tree/master/0392-is-subsequence) |
@@ -85,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/Abhishekkr21/LeetCode-Solutions1/tree/master/0041-first-missing-positive) |
+| [0139-word-break](https://github.com/Abhishekkr21/LeetCode-Solutions1/tree/master/0139-word-break) |
 | [0383-ransom-note](https://github.com/Abhishekkr21/LeetCode-Solutions1/tree/master/0383-ransom-note) |
 | [1635-number-of-good-pairs](https://github.com/Abhishekkr21/LeetCode-Solutions1/tree/master/1635-number-of-good-pairs) |
 | [2447-merge-similar-items](https://github.com/Abhishekkr21/LeetCode-Solutions1/tree/master/2447-merge-similar-items) |
@@ -111,6 +114,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0055-jump-game](https://github.com/Abhishekkr21/LeetCode-Solutions1/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Abhishekkr21/LeetCode-Solutions1/tree/master/0056-merge-intervals) |
 | [0135-candy](https://github.com/Abhishekkr21/LeetCode-Solutions1/tree/master/0135-candy) |
+| [0139-word-break](https://github.com/Abhishekkr21/LeetCode-Solutions1/tree/master/0139-word-break) |
 | [0213-house-robber-ii](https://github.com/Abhishekkr21/LeetCode-Solutions1/tree/master/0213-house-robber-ii) |
 | [0221-maximal-square](https://github.com/Abhishekkr21/LeetCode-Solutions1/tree/master/0221-maximal-square) |
 | [0455-assign-cookies](https://github.com/Abhishekkr21/LeetCode-Solutions1/tree/master/0455-assign-cookies) |
@@ -228,6 +232,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Abhishekkr21/LeetCode-Solutions1/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/Abhishekkr21/LeetCode-Solutions1/tree/master/0139-word-break) |
 ## Database
 |  |
 | ------- |
@@ -257,5 +262,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Memoization
 |  |
 | ------- |
+| [0139-word-break](https://github.com/Abhishekkr21/LeetCode-Solutions1/tree/master/0139-word-break) |
 | [1236-n-th-tribonacci-number](https://github.com/Abhishekkr21/LeetCode-Solutions1/tree/master/1236-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
