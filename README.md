@@ -39,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Abhishekkr21/LeetCode-Solutions1/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Abhishekkr21/LeetCode-Solutions1/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Abhishekkr21/LeetCode-Solutions1/tree/master/0784-insert-into-a-binary-search-tree) |
+| [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Abhishekkr21/LeetCode-Solutions1/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1646-kth-missing-positive-number](https://github.com/Abhishekkr21/LeetCode-Solutions1/tree/master/1646-kth-missing-positive-number) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Abhishekkr21/LeetCode-Solutions1/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Binary Tree
@@ -123,6 +124,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0493-reverse-pairs](https://github.com/Abhishekkr21/LeetCode-Solutions1/tree/master/0493-reverse-pairs) |
 | [0605-can-place-flowers](https://github.com/Abhishekkr21/LeetCode-Solutions1/tree/master/0605-can-place-flowers) |
 | [0724-find-pivot-index](https://github.com/Abhishekkr21/LeetCode-Solutions1/tree/master/0724-find-pivot-index) |
+| [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Abhishekkr21/LeetCode-Solutions1/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Abhishekkr21/LeetCode-Solutions1/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1635-number-of-good-pairs](https://github.com/Abhishekkr21/LeetCode-Solutions1/tree/master/1635-number-of-good-pairs) |
 | [1646-kth-missing-positive-number](https://github.com/Abhishekkr21/LeetCode-Solutions1/tree/master/1646-kth-missing-positive-number) |
