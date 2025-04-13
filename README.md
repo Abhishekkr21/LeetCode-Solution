@@ -36,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Abhishekkr21/LeetCode-Solutions1/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Abhishekkr21/LeetCode-Solutions1/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0450-delete-node-in-a-bst](https://github.com/Abhishekkr21/LeetCode-Solutions1/tree/master/0450-delete-node-in-a-bst) |
 | [0493-reverse-pairs](https://github.com/Abhishekkr21/LeetCode-Solutions1/tree/master/0493-reverse-pairs) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Abhishekkr21/LeetCode-Solutions1/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -125,6 +126,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0139-word-break](https://github.com/Abhishekkr21/LeetCode-Solutions1/tree/master/0139-word-break) |
 | [0213-house-robber-ii](https://github.com/Abhishekkr21/LeetCode-Solutions1/tree/master/0213-house-robber-ii) |
 | [0221-maximal-square](https://github.com/Abhishekkr21/LeetCode-Solutions1/tree/master/0221-maximal-square) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Abhishekkr21/LeetCode-Solutions1/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0455-assign-cookies](https://github.com/Abhishekkr21/LeetCode-Solutions1/tree/master/0455-assign-cookies) |
 | [0493-reverse-pairs](https://github.com/Abhishekkr21/LeetCode-Solutions1/tree/master/0493-reverse-pairs) |
 | [0605-can-place-flowers](https://github.com/Abhishekkr21/LeetCode-Solutions1/tree/master/0605-can-place-flowers) |
@@ -167,6 +169,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Abhishekkr21/LeetCode-Solutions1/tree/master/0056-merge-intervals) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Abhishekkr21/LeetCode-Solutions1/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0455-assign-cookies](https://github.com/Abhishekkr21/LeetCode-Solutions1/tree/master/0455-assign-cookies) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Abhishekkr21/LeetCode-Solutions1/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2447-merge-similar-items](https://github.com/Abhishekkr21/LeetCode-Solutions1/tree/master/2447-merge-similar-items) |
@@ -230,6 +233,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0221-maximal-square](https://github.com/Abhishekkr21/LeetCode-Solutions1/tree/master/0221-maximal-square) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Abhishekkr21/LeetCode-Solutions1/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Linked List
 |  |
 | ------- |
@@ -278,6 +282,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/Abhishekkr21/LeetCode-Solutions1/tree/master/0264-ugly-number-ii) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Abhishekkr21/LeetCode-Solutions1/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Rolling Hash
 |  |
 | ------- |
