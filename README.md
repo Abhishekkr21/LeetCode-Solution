@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Tree
 |  |
 | ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Abhishekkr21/LeetCode-Solutions1/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/Abhishekkr21/LeetCode-Solutions1/tree/master/0450-delete-node-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Abhishekkr21/LeetCode-Solutions1/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Abhishekkr21/LeetCode-Solutions1/tree/master/0783-search-in-a-binary-search-tree) |
@@ -34,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search Tree
 |  |
 | ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Abhishekkr21/LeetCode-Solutions1/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/Abhishekkr21/LeetCode-Solutions1/tree/master/0450-delete-node-in-a-bst) |
 | [0493-reverse-pairs](https://github.com/Abhishekkr21/LeetCode-Solutions1/tree/master/0493-reverse-pairs) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Abhishekkr21/LeetCode-Solutions1/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -45,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Tree
 |  |
 | ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Abhishekkr21/LeetCode-Solutions1/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/Abhishekkr21/LeetCode-Solutions1/tree/master/0450-delete-node-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Abhishekkr21/LeetCode-Solutions1/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Abhishekkr21/LeetCode-Solutions1/tree/master/0783-search-in-a-binary-search-tree) |
@@ -103,6 +106,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Depth-First Search
 |  |
 | ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Abhishekkr21/LeetCode-Solutions1/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Abhishekkr21/LeetCode-Solutions1/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0547-number-of-provinces](https://github.com/Abhishekkr21/LeetCode-Solutions1/tree/master/0547-number-of-provinces) |
 ## Breadth-First Search
