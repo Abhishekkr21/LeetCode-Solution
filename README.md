@@ -125,6 +125,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0135-candy](https://github.com/Abhishekkr21/LeetCode-Solutions1/tree/master/0135-candy) |
 | [0139-word-break](https://github.com/Abhishekkr21/LeetCode-Solutions1/tree/master/0139-word-break) |
 | [0213-house-robber-ii](https://github.com/Abhishekkr21/LeetCode-Solutions1/tree/master/0213-house-robber-ii) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Abhishekkr21/LeetCode-Solutions1/tree/master/0215-kth-largest-element-in-an-array) |
 | [0221-maximal-square](https://github.com/Abhishekkr21/LeetCode-Solutions1/tree/master/0221-maximal-square) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Abhishekkr21/LeetCode-Solutions1/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0455-assign-cookies](https://github.com/Abhishekkr21/LeetCode-Solutions1/tree/master/0455-assign-cookies) |
@@ -169,6 +170,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Abhishekkr21/LeetCode-Solutions1/tree/master/0056-merge-intervals) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Abhishekkr21/LeetCode-Solutions1/tree/master/0215-kth-largest-element-in-an-array) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Abhishekkr21/LeetCode-Solutions1/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0455-assign-cookies](https://github.com/Abhishekkr21/LeetCode-Solutions1/tree/master/0455-assign-cookies) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Abhishekkr21/LeetCode-Solutions1/tree/master/1966-frequency-of-the-most-frequent-element) |
@@ -211,6 +213,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Divide and Conquer
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Abhishekkr21/LeetCode-Solutions1/tree/master/0215-kth-largest-element-in-an-array) |
 | [0493-reverse-pairs](https://github.com/Abhishekkr21/LeetCode-Solutions1/tree/master/0493-reverse-pairs) |
 ## Binary Indexed Tree
 |  |
@@ -281,6 +284,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Abhishekkr21/LeetCode-Solutions1/tree/master/0215-kth-largest-element-in-an-array) |
 | [0264-ugly-number-ii](https://github.com/Abhishekkr21/LeetCode-Solutions1/tree/master/0264-ugly-number-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Abhishekkr21/LeetCode-Solutions1/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Rolling Hash
@@ -295,4 +299,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1508-longest-happy-prefix](https://github.com/Abhishekkr21/LeetCode-Solutions1/tree/master/1508-longest-happy-prefix) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Abhishekkr21/LeetCode-Solutions1/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
