@@ -69,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0014-longest-common-prefix](https://github.com/Abhishekkr21/LeetCode-Solutions1/tree/master/0014-longest-common-prefix) |
 | [0067-add-binary](https://github.com/Abhishekkr21/LeetCode-Solutions1/tree/master/0067-add-binary) |
 | [0139-word-break](https://github.com/Abhishekkr21/LeetCode-Solutions1/tree/master/0139-word-break) |
+| [0214-shortest-palindrome](https://github.com/Abhishekkr21/LeetCode-Solutions1/tree/master/0214-shortest-palindrome) |
 | [0383-ransom-note](https://github.com/Abhishekkr21/LeetCode-Solutions1/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/Abhishekkr21/LeetCode-Solutions1/tree/master/0392-is-subsequence) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Abhishekkr21/LeetCode-Solutions1/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -290,14 +291,17 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Rolling Hash
 |  |
 | ------- |
+| [0214-shortest-palindrome](https://github.com/Abhishekkr21/LeetCode-Solutions1/tree/master/0214-shortest-palindrome) |
 | [1508-longest-happy-prefix](https://github.com/Abhishekkr21/LeetCode-Solutions1/tree/master/1508-longest-happy-prefix) |
 ## String Matching
 |  |
 | ------- |
+| [0214-shortest-palindrome](https://github.com/Abhishekkr21/LeetCode-Solutions1/tree/master/0214-shortest-palindrome) |
 | [1508-longest-happy-prefix](https://github.com/Abhishekkr21/LeetCode-Solutions1/tree/master/1508-longest-happy-prefix) |
 ## Hash Function
 |  |
 | ------- |
+| [0214-shortest-palindrome](https://github.com/Abhishekkr21/LeetCode-Solutions1/tree/master/0214-shortest-palindrome) |
 | [1508-longest-happy-prefix](https://github.com/Abhishekkr21/LeetCode-Solutions1/tree/master/1508-longest-happy-prefix) |
 ## Quickselect
 |  |
